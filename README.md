@@ -4,12 +4,13 @@ Sure! Below is the template for the README file based on the provided code:
 
 ## Table of Contents
 
-- [Homework 1- Active Measurement](#Homework1-Active Measurement)
-- [Homework 2- Website Fingerprinting](#Homework2-Website Fingerprinting)
+- [Homework 1- Active Measurement](#Homework1-ActiveMeasurement)
+- [Homework 2- Website Fingerprinting](#Homework2-WebsiteFingerprinting)
 - [Homework 3- HTTP Request Arrival Estimation](#Homework3-HTTPRequestArrivalEstimation)
 
 
 ## Homework 1- Active Measurement
+
 (Geographical Analysis of Round-Trip Time (RTT) in Network Communication)
 
 
@@ -33,6 +34,7 @@ Please note that the accuracy of the linear estimation might vary due to other f
 
 
 ## Homework 2- Website Fingerprinting 
+
 (Network Traffic Classification using KNN and Cumulative Traces)
 
 This project focuses on network traffic classification using K-nearest neighbors (KNN) and cumulative traces. The main steps involved in the project are as follows:
@@ -67,6 +69,7 @@ Overall, this project demonstrates the application of KNN and cumulative traces 
 
 
 ## Homework 3- HTTP Request Arrival Estimation
+
 (Video Traffic Analysis)
 
 This repository contains a Jupyter Notebook for video traffic analysis. The notebook aims to predict the arrival time of the next uplink (UL) request sent by a video client and the size of the response from the video server. The analysis is performed on a dataset of 21 video sessions.
