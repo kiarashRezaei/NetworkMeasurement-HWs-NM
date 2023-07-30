@@ -1,0 +1,53 @@
+﻿Country,adress
+Australia,ftp.au.debian.org/debian/
+Austria,ftp.at.debian.org/debian/
+Belarus,ftp.by.debian.org/debian/
+Belgium,ftp.be.debian.org/debian/
+Brazil,ftp.br.debian.org/debian/
+Bulgaria,ftp.bg.debian.org/debian/
+China,ftp.cn.debian.org/debian/
+Croatia,ftp.hr.debian.org/debian/
+Czech Republic,ftp.cz.debian.org/debian/
+Denmark,ftp.dk.debian.org/debian/
+Finland,ftp.fi.debian.org/debian/
+France,ftp.fr.debian.org/debian/
+Germany,ftp.de.debian.org/debian/
+Hong Kong,ftp.hk.debian.org/debian/
+Hungary,ftp.hu.debian.org/debian/
+Iceland,ftp.is.debian.org/debian/
+Italy,ftp.it.debian.org/debian/
+Japan,ftp.jp.debian.org/debian/
+Lithuania,ftp.lt.debian.org/debian/
+Netherlands,ftp.nl.debian.org/debian/
+New Caledonia,ftp.nc.debian.org/debian/
+Poland,ftp.pl.debian.org/debian/
+Portugal,ftp.pt.debian.org/debian/
+Russia,ftp.ru.debian.org/debian/
+Slovakia,ftp.sk.debian.org/debian/
+Slovenia,ftp.si.debian.org/debian/
+Spain,ftp.es.debian.org/debian/
+Sweden,ftp.se.debian.org/debian/
+Switzerland,ftp.ch.debian.org/debian/
+United Kingdom,ftp.uk.debian.org/debian/
+United States,ftp.us.debian.org/debian/
+New Zeland,ftp.nz.debian.org/debian/
+United Kingdom,https://mirrors.gethosted.online/gnu/
+United Kingdom,http://mirrors.gethosted.online/gnu/
+United Kingdom,rsync://mirrors.gethosted.online/gnu/
+Canada,ftp://gnu.mirror.iweb.com
+Norway,https://gnuftp.uib.no
+Norway,http://gnuftp.uib.no
+Norway,https://gnualpha.uib.no
+Norway,http://gnualpha.uib.no
+Greece,https://ftp.cc.uoc.gr/mirrors/gnu/
+Greece,http://ftp.cc.uoc.gr/mirrors/gnu/
+Greece,ftp://ftp.cc.uoc.gr/mirrors/gnu/
+Iran,https://mirror.hostiran.ir/gnu/gnu/
+Iran,http://mirror.hostiran.ir/gnu/gnu/
+South Africa,http://mirror.ufs.ac.za/gnu/
+Morocco,https://mirror.marwan.ma/gnu/
+Morocco,http://mirror.marwan.ma/gnu/
+Brazil,http://gnu.c3sl.ufpr.br/ftp/
+Brazil,rsync://gnu.c3sl.ufpr.br/gnu/ftp/
+United States,https://gnu.mirror.constant.com
+United States,http://gnu.mirror.constant.com
