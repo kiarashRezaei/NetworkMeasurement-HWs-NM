@@ -4,9 +4,9 @@ Sure! Below is the template for the README file based on the provided code:
 
 ## Table of Contents
 
-- [Homework 1- Active Measurement](#Homework 1- Active Measurement)
-- [Homework 2- Website Fingerprinting](#Homework 2- Website Fingerprinting)
-- [Homework 3- HTTP Request Arrival Estimation](#Homework 3- HTTP Request Arrival Estimation )
+- [Homework 1- Active Measurement](#Homework1-Active Measurement)
+- [Homework 2- Website Fingerprinting](#Homework2-Website Fingerprinting)
+- [Homework 3- HTTP Request Arrival Estimation](#Homework3-HTTPRequestArrivalEstimation)
 
 
 ## Homework 1- Active Measurement
