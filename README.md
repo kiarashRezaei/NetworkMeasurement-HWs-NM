@@ -1,5 +1,3 @@
-Sure! Below is the template for the README file based on the provided code:
-
 # Network Measurements - Homeworks
 
 ## Table of Contents
